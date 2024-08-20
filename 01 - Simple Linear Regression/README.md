@@ -14,7 +14,7 @@ The goal of this project is to build a linear regression model that can predict 
 
 ## Dataset
 
-The dataset used in this project is `canada_per_capita_income.csv`, which contains the following columns:
+The dataset used in this project is [canada_per_capita_income.csv](https://github.com/DarkGuardian641/Machine-Learning-Projects/blob/main/01%20-%20Simple%20Linear%20Regression/canada_per_capita_income.csv), which contains the following columns:
 
 - Year : The year ranging from 1970 to 2016.
 - Per capita income (USD) : The per capita income in US dollars for the corresponding year.
@@ -31,7 +31,7 @@ Below is a preview of the `first 5 rows` of the dataset:
 | 1973 | 4804.46                 |
 | 1974 | 5576.51                 |
 
-The dataset consists of **47 entries** in total, capturing a consistent trend in Canada's economic growth over nearly five decades.
+The dataset consists of **`47 entries`** in total, capturing a consistent trend in Canada's economic growth over nearly five decades.
 
 ## Requirements
 
@@ -63,7 +63,7 @@ pip install numpy pandas matplotlib scikit-learn
 
 1. Clone the repository or download the project files.
 2. Ensure all required libraries are installed.
-3. Open the `Simple_Linear_Regression.ipynb` notebook in Jupyter Notebook or any other compatible environment.
+3. Open the [Simple_Linear_Regression.ipynb](https://github.com/DarkGuardian641/Machine-Learning-Projects/blob/main/01%20-%20Simple%20Linear%20Regression/Simple_Linear_Regression.ipynb) notebook in Jupyter Notebook or any other compatible environment.
 4. Run the notebook cells sequentially to see the data analysis, model training, and predictions.
 
 ## Results
