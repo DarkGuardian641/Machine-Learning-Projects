@@ -81,11 +81,5 @@ A plot showing the historical data and the regression line with predictions for 
 
 This project successfully demonstrates how Simple Linear Regression can be applied to predict future values based on historical data. The model provides a clear, interpretable prediction, which can serve as a foundation for more complex predictive models or economic analysis.
 
-### Next Steps
-
-- Explore additional features that may influence per capita income, such as inflation rates, GDP, and employment rates.
-- Experiment with more advanced regression techniques or machine learning models.
-- Perform cross-validation to ensure the robustness of the predictions.
-
 ## Author
 [Atharva Baikar](https://github.com/DarkGuardian641)
