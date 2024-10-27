@@ -16,7 +16,7 @@ The goal of this project is to build a multiple linear regression model that can
 
 ## Dataset
 
-The dataset used in this project is [homeprices.csv](dataset-link)
+The dataset used in this project is [homeprices.csv](https://github.com/DarkGuardian641/Machine-Learning-Projects/blob/main/02%20-%20Multivariate%20Regression/homeprices.csv)
 
 ### Dataset Preview
 
@@ -29,7 +29,6 @@ Below is a preview of the first few rows of the dataset:
 | 3200 | NaN      | 18  | 610000 |
 | 3600 | 3.0      | 30  | 595000 |
 | 4000 | 5.0      | 8   | 760000 |
-| 4100 | 6.0      | 8   | 810000 |
 
 ## Requirements
 
@@ -62,7 +61,7 @@ pip install numpy pandas scikit-learn
 
 ## Results
 
-The Multiple Linear Regression model provides the following sample predictions:
+The [Multiple Linear Regression model](https://github.com/DarkGuardian641/Machine-Learning-Projects/blob/main/02%20-%20Multivariate%20Regression/Multiple_Linear_Regression.ipynb) provides the following sample predictions:
 
 - **Prediction 1**: Price is `498408.25158031`
 - **Prediction 2**: Price is `578876.03748933`
