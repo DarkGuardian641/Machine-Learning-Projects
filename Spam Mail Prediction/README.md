@@ -14,7 +14,7 @@ The goal of this project is to build a classification model that can accurately 
 
 ## Dataset
 
-The dataset used in this project is `mail_data.csv`, which contains the following columns:
+The dataset used in this project is [mail_data.csv](https://github.com/DarkGuardian641/Learn-Machine-Learning/blob/main/Spam%20Mail%20Prediction/mail_data.csv), which contains the following columns:
 
 - Category: The label indicating whether the email is 'spam' or 'ham'.
 - Message: The text content of the email.
@@ -62,7 +62,7 @@ pip install numpy pandas scikit-learn
 
 1. Clone the repository or download the project files.
 2. Ensure all required libraries are installed.
-3. Open the `spam-mail-prediction.ipynb` notebook in Jupyter Notebook or any other compatible environment.
+3. Open the [spam-mail-prediction.ipynb](https://github.com/DarkGuardian641/Learn-Machine-Learning/blob/main/Spam%20Mail%20Prediction/spam-mail-prediction.ipynb) notebook in Jupyter Notebook or any other compatible environment.
 4. Run the notebook cells sequentially to see the data analysis, model training, and predictions.
 
 ## Results
