@@ -11,8 +11,8 @@ Explore the project index below, and feel free to dive into any of the projects 
 | Sr No | Name                    | Link                                                                                                                                                                                               |
 |-------|--------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 01    | Prediction of future per capita income | [Link](https://github.com/DarkGuardian641/Learn-Machine-Learning/tree/main/Prediction%20of%20future%20per%20capita%20income)                                                  |
-| 02    | House price prediction | [Link]([https://github.com/DarkGuardian641/Machine-Learning-Projects/tree/main/02%20-%20Multivariate%20Regression](https://github.com/DarkGuardian641/Learn-Machine-Learning/tree/main/House%20price%20prediction))|
-| 03    | Spam Mail Prediction | [Link]([https://github.com/DarkGuardian641/Learn-Machine-Learning/tree/main/Prediction%20of%20future%20per%20capita%20income](https://github.com/DarkGuardian641/Learn-Machine-Learning/tree/main/Spam%20Mail%20Prediction))|
+| 02    | House price prediction | [Link](https://github.com/DarkGuardian641/Machine-Learning-Projects/tree/main/02%20-%20Multivariate%20Regression](https://github.com/DarkGuardian641/Learn-Machine-Learning/tree/main/House%20price%20prediction)|
+| 03    | Spam Mail Prediction | [Link](https://github.com/DarkGuardian641/Learn-Machine-Learning/tree/main/Prediction%20of%20future%20per%20capita%20income](https://github.com/DarkGuardian641/Learn-Machine-Learning/tree/main/Spam%20Mail%20Prediction)|
 
 
 ## Author
