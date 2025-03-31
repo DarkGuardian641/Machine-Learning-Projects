@@ -1,4 +1,4 @@
-# Learn Machine Learning
+# Machine Learning Mini Projects
 
 Welcome to my repository of Machine Learning projects! This collection features projects that I developed to deepen my understanding of various machine learning algorithms and techniques.
 
