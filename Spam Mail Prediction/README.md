@@ -21,7 +21,7 @@ The dataset used in this project is [mail_data.csv](https://github.com/DarkGuard
 
 ### Dataset Preview
 
-Below is a preview of the first few rows of the dataset:
+Below is a preview of the first few rows of the dataset :
 
 | Category | Message |
 |:--------:|:--------|
